@@ -1,7 +1,7 @@
 ---
 name: New weekly
 about: 创建新一期的周刊（仅限周刊运维小组成员使用）
-title: "生统爱好者周刊（第 XXX 期）：XXX"
+title: "生统爱好者周刊（第 XXX 期）"
 labels: 周刊
 assignees: Leslie-Lu
 
@@ -32,6 +32,7 @@ assignees: Leslie-Lu
 「OpenBioStat 生统爱好者周刊」运维小组：
 
 - [`@Leslie-Lu`]（陆震）
+- [`@YihanChen325`]（陈奕含）
 
 ## 订阅
 
