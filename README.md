@@ -11,6 +11,14 @@
 - [`@Leslie-Lu`](https://github.com/Leslie-Lu) - 陆震
 - [`@YihanChen325`](https://github.com/YihanChen325) - 陈奕含
 
+<a href="https://www.star-history.com/#openbiostat/biostat-weekly&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=openbiostat/biostat-weekly&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=openbiostat/biostat-weekly&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=openbiostat/biostat-weekly&type=Date" />
+ </picture>
+</a>
+
 
 
 --------------
