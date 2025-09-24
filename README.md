@@ -10,6 +10,7 @@
 
 - [`@Leslie-Lu`](https://github.com/Leslie-Lu) - 陆震
 - [`@YihanChen325`](https://github.com/YihanChen325) - 陈奕含
+- [`@kirihsia`](https://github.com/kirihsia) - 夏鑫辛
 
 <a href="https://www.star-history.com/#openbiostat/biostat-weekly&Date">
  <picture>
