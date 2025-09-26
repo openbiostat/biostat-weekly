@@ -11,6 +11,7 @@
 - [`@Leslie-Lu`](https://github.com/Leslie-Lu) - 陆震
 - [`@YihanChen325`](https://github.com/YihanChen325) - 陈奕含
 - [`@kirihsia`](https://github.com/kirihsia) - 夏鑫辛
+- [`@GCRPM`](https://github.com/GCRPM) - 徐林玉
 
 <a href="https://www.star-history.com/#openbiostat/biostat-weekly&Date">
  <picture>
@@ -32,11 +33,13 @@
 
 周刊沉淀的内容，可以使用下面几种方法进行搜索。
 
-1、使用 [Sourcegraph.com](https://sourcegraph.com/github.com/openbiostat/biostat-weekly) 进行搜索。（推荐方法）
+1. 使用 [Sourcegraph.com](https://sourcegraph.com/github.com/openbiostat/biostat-weekly) 进行搜索。（推荐方法）
 
-2、使用 GitHub 自带的搜索，但只支持搜索英文单词。
+2. 使用 [leslie-lu.github.io](https://leslie-lu.github.io/) 网站上的搜索功能进行搜索。（推荐方法）
 
-3、将这个仓库克隆到本地，然后在仓库目录使用下面的命令。
+3. 使用 GitHub 自带的搜索，但只支持搜索英文单词。
+
+4. 将这个仓库克隆到本地，然后在仓库目录使用下面的命令。
 
 ```bash
 $ grep -nri [搜索词] issues | cat --number
@@ -55,6 +58,8 @@ $ grep -nri MMRM issues | cat --number
 ## 2025
 
 ### 九月
+
+- 第 1 期：[博士后，“太多了”？](issues/issue-1.md)
 
 
 

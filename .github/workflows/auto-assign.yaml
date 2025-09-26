@@ -1,0 +1,16 @@
+name: Auto Assign pull request
+on:
+  pull_request:
+    types: [opened]
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+    steps:
+      - name: 'Auto assign reviewers'
+        uses: pozil/auto-assign-issue@v1
+        with:
+            repo-token: ${{ secrets.GITHUB_TOKEN }}
+            assignees: Leslie-Lu
+            numOfAssignees: 1

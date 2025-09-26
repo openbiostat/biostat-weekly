@@ -33,7 +33,8 @@ assignees: Leslie-Lu
 
 - [`@Leslie-Lu`]（陆震）
 - [`@YihanChen325`]（陈奕含）
-- [`@kirihsia]（夏鑫辛）
+- [`@kirihsia`]（夏鑫辛）
+- [`@GCRPM`]（徐林玉）
 
 ## 订阅
 
