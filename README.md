@@ -59,6 +59,8 @@ $ grep -nri MMRM issues | cat --number
 
 ### 九月
 
+- 第 2 期：[非升即走，是人才培养更重要还是科研绩效更重要](issues/issue-2.md)
+
 - 第 1 期：[博士后，“太多了”？](issues/issue-1.md)
 
 
