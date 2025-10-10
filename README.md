@@ -57,6 +57,10 @@ $ grep -nri MMRM issues | cat --number
 
 ## 2025
 
+### 十月
+
+- 第 3 期：[数据共享范式下，如何用好科学数据](issues/issue-3.md)
+
 ### 九月
 
 - 第 2 期：[非升即走，是人才培养更重要还是科研绩效更重要](issues/issue-2.md)
