@@ -59,6 +59,8 @@ $ grep -nri MMRM issues | cat --number
 
 ### 十月
 
+- 第 4 期：[一辈子动手做实验的科学家](issues/issue-4.md)
+
 - 第 3 期：[数据共享范式下，如何用好科学数据](issues/issue-3.md)
 
 ### 九月
