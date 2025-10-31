@@ -59,6 +59,8 @@ $ grep -nri MMRM issues | cat --number
 
 ### 十月
 
+- 第 6 期：[Meta 分析，为什么顶刊一边依赖它，一边骂它？](issues/issue-6.md)
+
 - 第 5 期：[无偿审稿，是学术看门人还是免费苦力？](issues/issue-5.md)
 
 - 第 4 期：[一辈子动手做实验的科学家](issues/issue-4.md)
