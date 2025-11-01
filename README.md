@@ -3,6 +3,7 @@
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/openbiox/weekly/graphs/commit-activity)
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fopenbiostat%2Fbiostat-weekly&label=&icon=github&color=%23198754&message=&style=flat&tz=UTC)
+[![RSS](https://img.shields.io/badge/RSS-Subscribe-orange)](https://leslie-lu.github.io/biostat_weekly_rss.xml)
 
 本项目由「OpenBioStat 生统爱好者周刊」运维小组维护。
 
@@ -25,7 +26,7 @@
 
 --------------
 
-记录每周值得分享的「生物统计/流行病与卫生统计学」相关内容，周五发布。
+记录每周值得分享的「生物统计/流行病与卫生统计学」相关内容，每周五发布，支持 [RSS 订阅](https://leslie-lu.github.io/biostat_weekly_rss.xml)，同步更新在微信公众号「陆震生物统计」（luzhen-biostat）上。
 
 欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/openbiostat/biostat-weekly/issues) 。
 
@@ -33,9 +34,9 @@
 
 周刊沉淀的内容，可以使用下面几种方法进行搜索。
 
-1. 使用 [Sourcegraph.com](https://sourcegraph.com/github.com/openbiostat/biostat-weekly) 进行搜索。（推荐方法）
+1. 使用 [leslie-lu.github.io](https://leslie-lu.github.io/) 网站上的搜索功能进行搜索。（推荐方法）
 
-2. 使用 [leslie-lu.github.io](https://leslie-lu.github.io/) 网站上的搜索功能进行搜索。（推荐方法）
+2. 使用 [Sourcegraph.com](https://sourcegraph.com/github.com/openbiostat/biostat-weekly) 进行搜索。（推荐方法，暂时不支持）
 
 3. 使用 GitHub 自带的搜索，但只支持搜索英文单词。
 
@@ -45,10 +46,10 @@
 $ grep -nri [搜索词] issues | cat --number
 ```
 
-比如，搜索 MMRM 相关内容。
+比如，搜索 python 相关内容。
 
 ```bash
-$ grep -nri MMRM issues | cat --number
+$ grep -nri python issues | cat --number
 ```
 
 
