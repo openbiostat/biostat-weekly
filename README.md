@@ -58,6 +58,10 @@ $ grep -nri python issues | cat --number
 
 ## 2025
 
+### 十一月
+
+- 第 7 期：[减少行政性学术评价，缓解年轻教师职业压力](issues/issue-7.md)
+
 ### 十月
 
 - 第 6 期：[Meta 分析，为什么顶刊一边依赖它，一边骂它？](issues/issue-6.md)
