@@ -34,9 +34,9 @@
 
 周刊沉淀的内容，可以使用下面几种方法进行搜索。
 
-1. 使用 [leslie-lu.github.io](https://leslie-lu.github.io/) 网站上的搜索功能进行搜索。（推荐方法）
+1. 使用 [Sourcegraph.com](https://sourcegraph.com/github.com/openbiostat/biostat-weekly) 进行搜索。（推荐方法）
 
-2. 使用 [Sourcegraph.com](https://sourcegraph.com/github.com/openbiostat/biostat-weekly) 进行搜索。（推荐方法，暂时不支持）
+2. 使用 [leslie-lu.github.io](https://leslie-lu.github.io/) 网站上的搜索功能进行搜索。
 
 3. 使用 GitHub 自带的搜索，但只支持搜索英文单词。
 
