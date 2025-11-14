@@ -42,6 +42,6 @@ assignees: Leslie-Lu
 
 微信搜索“陆震生物统计”或者扫描二维码，即可订阅。
 
-![](https://cdn.jsdelivr.net/gh/Leslie-Lu/WeChatOfficialAccount/img_2025/qrcode_for_gh_395f59db8b4c_258.jpg)
+![](https://cdn.jsdelivr.net/gh/Leslie-Lu/images/images/20251113212819.png)
 
 （完）
