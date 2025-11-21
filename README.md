@@ -60,6 +60,8 @@ $ grep -nri python issues | cat --number
 
 ### 十一月
 
+- 第 9 期：[SAS 退出中国：时代变化超出想象](issues/issue-9.md)
+
 - 第 8 期：[刷多了社交媒体，AI 也会“脑腐”](issues/issue-8.md)
 
 - 第 7 期：[减少行政性学术评价，缓解年轻教师职业压力](issues/issue-7.md)
