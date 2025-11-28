@@ -1,4 +1,4 @@
-# 生统爱好者周刊 <img src="https://cdn.jsdelivr.net/gh/Leslie-Lu/WeChatOfficialAccount/img_2025/openbiostat_logo.png" align="right" width="200"/>
+# 生统爱好者周刊 <img src="https://cdn.jsdelivr.net/gh/Leslie-Lu/images/images/openbiostat_logo.png" align="right" width="200"/>
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/openbiox/weekly/graphs/commit-activity)
@@ -60,6 +60,8 @@ $ grep -nri python issues | cat --number
 
 ### 十一月
 
+- 第 10 期：[AI 时代如何编程](issues/issue-10.md)
+
 - 第 9 期：[SAS 退出中国：时代变化超出想象](issues/issue-9.md)
 
 - 第 8 期：[刷多了社交媒体，AI 也会“脑腐”](issues/issue-8.md)
@@ -96,4 +98,4 @@ $ grep -nri python issues | cat --number
 
 ## 赞赏
 
-![](https://cdn.jsdelivr.net/gh/Leslie-Lu/WeChatOfficialAccount/img_2025/0b374665aafbbce626c7d4dc6c08fcf4.jpg)
+![](https://cdn.jsdelivr.net/gh/Leslie-Lu/images/images/786a5bba5b54cc18bfced77fc707e9e2.jpg)
