@@ -1,7 +1,7 @@
 # 生统爱好者周刊 <img src="https://cdn.jsdelivr.net/gh/Leslie-Lu/images/images/openbiostat_logo.png" align="right" width="200"/>
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/openbiox/weekly/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/openbiostat/biostat-weekly/graphs/commit-activity)
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fopenbiostat%2Fbiostat-weekly&label=&icon=github&color=%23198754&message=&style=flat&tz=UTC)
 [![RSS](https://img.shields.io/badge/RSS-Subscribe-orange)](https://leslie-lu.github.io/biostat_weekly_rss.xml)
 
@@ -57,6 +57,10 @@ $ grep -nri python issues | cat --number
 --------------
 
 ## 2025
+
+### 十二月
+
+- 第 11 期：[开放数据集滥用危机](issues/issue-11.md)
 
 ### 十一月
 
