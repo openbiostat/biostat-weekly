@@ -60,6 +60,8 @@ $ grep -nri python issues | cat --number
 
 ### 十二月
 
+- 第 12 期：[上半年中国发表 NC 论文全球第一，OA 费用共计超 1.3 亿](issues/issue-12.md)
+
 - 第 11 期：[开放数据集滥用危机](issues/issue-11.md)
 
 ### 十一月
