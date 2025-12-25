@@ -60,6 +60,8 @@ $ grep -nri python issues | cat --number
 
 ### 十二月
 
+- 第 14 期：[人工智能+医学科研有没有搞头](issues/issue-14.md)
+
 - 第 13 期：[科研竞争内卷带来的心理问题不容忽视](issues/issue-13.md)
 
 - 第 12 期：[上半年中国发表 NC 论文全球第一，OA 费用共计超 1.3 亿](issues/issue-12.md)
