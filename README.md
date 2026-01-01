@@ -56,7 +56,17 @@ $ grep -nri python issues | cat --number
 
 --------------
 
+## 2026
+
+### 一月
+
+- 第 15 期：[榜单套路大赏：从大学排名到高被引学者排名](issues/issue-15.md)
+
 ## 2025
+
+<details>
+ 
+<summary>目录</summary>
 
 ### 十二月
 
@@ -93,6 +103,8 @@ $ grep -nri python issues | cat --number
 - 第 2 期：[非升即走，是人才培养更重要还是科研绩效更重要](issues/issue-2.md)
 
 - 第 1 期：[博士后，“太多了”？](issues/issue-1.md)
+
+</details>
 
 
 
