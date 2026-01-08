@@ -72,7 +72,7 @@ CONSORT 2025 声明：随机试验报告指南，旨在提升临床研究透明�
 
 8. [生物信息学中常用的开源R包及其GitHub地址](https://mp.weixin.qq.com/s/A_eoEl3101bqVOeDtWb75g)
 
-![](https://cdn.jsdelivr.net/gh/Leslie-Lu/images/images/20251225180433.png)
+![](https://cdn.jsdelivr.net/gh/Leslie-Lu/images/images/20260102153307.png)
 
 生物信息学中R包，包括差异表达分析，序列和基因组分析，数据操作和可视化，单细胞分析，通路和富集分析，数据结构与IO，统计和机器学习，网络分析，变异分析，质谱和蛋白质组学。
 
