@@ -56,7 +56,7 @@
 
 - 论文 DOI：10.1080/01621459.2021.1956937
 
-6. [雅各布•伯努利](https://en.wikipedia.org/wiki/Jacob%5CuBernoulli "雅各布•伯努利 - 维基百科")
+6. [雅各布•伯努利](https://en.wikipedia.org/wiki/Jacob_Bernoulli "雅各布•伯努利 - 维基百科")
 
 ![](https://cdn.jsdelivr.net/gh/Leslie-Lu/images/images/20260121220629.png)
 
