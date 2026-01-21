@@ -60,6 +60,8 @@ $ grep -nri python issues | cat --number
 
 ### 一月
 
+- 第 18 期：[一些大学老师开始坐班了](issues/issue-18.md)
+
 - 第 17 期：[AI 加持下，博士培养时间可以缩短么？](issues/issue-17.md)
 
 - 第 16 期：[AI 看病，误诊了谁负责？](issues/issue-16.md)
