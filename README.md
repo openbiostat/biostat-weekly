@@ -26,7 +26,7 @@
 
 --------------
 
-记录每周值得分享的「生物统计/流行病与卫生统计学」相关内容，每周五发布，支持 [RSS 订阅](https://leslie-lu.github.io/biostat_weekly_rss.xml)，同步更新在微信公众号「陆震生物统计」（luzhen-biostat）上。
+记录每周值得分享的「生物统计/流行病与卫生统计学」相关内容，每周五发布，同步更新在微信公众号「陆震生物统计」（luzhen-biostat）上。同时，本周刊同步支持 [RSS 订阅](https://leslie-lu.github.io/biostat_weekly_rss.xml)；本周刊同名中文播客现已正式在[苹果播客（Apple Podcasts）](https://podcasts.apple.com/cn/podcast/%E7%94%9F%E7%BB%9F%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A/id1868591486?l=en-GB)和[小宇宙](https://www.xiaoyuzhoufm.com/podcast/69650caa93e769238063a05e)平台上线，搜索`生统爱好者周刊`即可订阅收听。
 
 欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/openbiostat/biostat-weekly/issues) 。
 
@@ -59,6 +59,8 @@ $ grep -nri python issues | cat --number
 ## 2026
 
 ### 一月
+
+- 第 19 期：[ChatGPT眼里的中国统计与公共卫生统计](issues/issue-19.md)
 
 - 第 18 期：[一些大学老师开始坐班了](issues/issue-18.md)
 
