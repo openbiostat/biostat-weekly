@@ -80,6 +80,8 @@ Bioinfokit是一款开源的生物信息学数据分析和可视化工具包，�
 
 ![](https://cdn.jsdelivr.net/gh/Leslie-Lu/images/images/20260129160222.png)
 
+lets-plot是JetBrains开源的多平台数据可视化库，提供类似ggplot2的语法，可在Python、R以及Kotlin/Java环境中创建静态和交互式图形。
+
 ## 资源
 
 10. [神经影像数据分析的统计学习方法及其应用](https://www.youtube.com/watch?v=kSuP5_x8B4g "神经影像数据分析的统计学习方法及其应用 - YouTube")
