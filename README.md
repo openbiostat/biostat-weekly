@@ -58,6 +58,10 @@ $ grep -nri python issues | cat --number
 
 ## 2026
 
+### 二月
+
+- 第 20 期：[预测模型，发表即终点？](issues/issue-20.md)
+
 ### 一月
 
 - 第 19 期：[ChatGPT眼里的中国统计与公共卫生统计](issues/issue-19.md)
