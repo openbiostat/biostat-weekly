@@ -60,6 +60,8 @@ $ grep -nri python issues | cat --number
 
 ### 二月
 
+- 第 21 期：[博士生敢不敢冒险，很大程度“写在导师身上”](issues/issue-21.md)
+
 - 第 20 期：[预测模型，发表即终点？](issues/issue-20.md)
 
 ### 一月
