@@ -52,7 +52,7 @@
 
 - 论文 DOI：10.1056/NEJMp2510203
 
-5. [罗纳德·A·费舍尔](https://en.wikipedia.org/wiki/Ronald_-Fisher "罗纳德·A·费舍尔")
+5. [罗纳德·A·费舍尔](https://en.wikipedia.org/wiki/Ronald_Fisher "罗纳德·A·费舍尔")
 
 ![](https://cdn.jsdelivr.net/gh/Leslie-Lu/images/images/20260225192459.png)
 
