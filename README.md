@@ -60,6 +60,8 @@ $ grep -nri python issues | cat --number
 
 ### 二月
 
+- 第 22 期：[NEJM | FDA重大变革，新药上市只需一项确证性试验](issues/issue-22.md)
+
 - 第 21 期：[博士生敢不敢冒险，很大程度“写在导师身上”](issues/issue-21.md)
 
 - 第 20 期：[预测模型，发表即终点？](issues/issue-20.md)
