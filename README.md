@@ -58,6 +58,10 @@ $ grep -nri python issues | cat --number
 
 ## 2026
 
+### 三月
+
+- 第 23 期：[引入“学术年龄”作为科研人才评价新标准？](issues/issue-23.md)
+
 ### 二月
 
 - 第 22 期：[NEJM | FDA重大变革，新药上市只需一项确证性试验](issues/issue-22.md)
