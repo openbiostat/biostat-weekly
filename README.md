@@ -60,6 +60,10 @@ $ grep -nri python issues | cat --number
 
 ### 三月
 
+- 第 25 期：[arXiv变天：将脱离康奈尔大学独立](issues/issue-25.md)
+
+- 第 24 期：[OpenClaw会是科学家的“超级助手”吗？](issues/issue-24.md)
+
 - 第 23 期：[引入“学术年龄”作为科研人才评价新标准？](issues/issue-23.md)
 
 ### 二月
