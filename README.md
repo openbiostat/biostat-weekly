@@ -60,6 +60,8 @@ $ grep -nri python issues | cat --number
 
 ### 三月
 
+- 第 26 期：[光环之下的压力：名校博士后的隐秘困境](issues/issue-26.md)
+
 - 第 25 期：[arXiv变天：将脱离康奈尔大学独立](issues/issue-25.md)
 
 - 第 24 期：[OpenClaw会是科学家的“超级助手”吗？](issues/issue-24.md)
