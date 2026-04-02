@@ -58,6 +58,10 @@ $ grep -nri python issues | cat --number
 
 ## 2026
 
+### 四月
+
+- 第 27 期：[AI正在改变科学发现方式？](issues/issue-27.md)
+
 ### 三月
 
 - 第 26 期：[光环之下的压力：名校博士后的隐秘困境](issues/issue-26.md)
