@@ -38,7 +38,7 @@
 
 ![](https://cdn.jsdelivr.net/gh/Leslie-Lu/images/images/20260409193234.png)
 
-NVIDIA发布《State of AI in Healthcare andLife Sciences: 2026 Trends》（2026年医疗健康与生命科学领域AI应用现状报告），报告通过对全球600余位行业专业人士的调研，全面呈现了医疗健康与生命科学行业的AI应用全景，解读了行业核心技术趋势、商业落地成果与未来发展方向。
+NVIDIA发布《State of AI in Healthcare and Life Sciences: 2026 Trends》（2026年医疗健康与生命科学领域AI应用现状报告），报告通过对全球600余位行业专业人士的调研，全面呈现了医疗健康与生命科学行业的AI应用全景，解读了行业核心技术趋势、商业落地成果与未来发展方向。
 
 4. [因果推断：背景与潜在结果框架](https://mp.weixin.qq.com/s/pmHzMrPR51kQ7embgZAJeA)
 
