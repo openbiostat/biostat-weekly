@@ -60,6 +60,8 @@ $ grep -nri python issues | cat --number
 
 ### 四月
 
+- 第 29 期：[AI会取代医生吗？](issues/issue-29.md)
+
 - 第 28 期：[Nature | 我和我的博士生导师的关系变得很糟糕——我该怎么办？](issues/issue-28.md)
 
 - 第 27 期：[AI正在改变科学发现方式？](issues/issue-27.md)
