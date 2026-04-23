@@ -60,6 +60,8 @@ $ grep -nri python issues | cat --number
 
 ### 四月
 
+- 第 30 期：[“课堂已死”：一位大学老师的心声](issues/issue-30.md)
+
 - 第 29 期：[AI会取代医生吗？](issues/issue-29.md)
 
 - 第 28 期：[Nature | 我和我的博士生导师的关系变得很糟糕——我该怎么办？](issues/issue-28.md)
