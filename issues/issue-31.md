@@ -46,7 +46,7 @@
 
 大脑神经元通过不同频段的节律性活动（如Delta、Theta、Alpha、Beta、Gamma波）实现协同工作，这些“节拍”不仅对应睡眠、记忆、注意与认知等功能，还通过同步与相位锁定机制提升脑区间的信息传递效率。其中，神经振荡并非附属现象，而是类似“操作系统”的协调机制，其失调与帕金森病、阿尔茨海默病及精神分裂症等密切相关。同时，基于振荡的神经调控、神经反馈和脑机接口技术正展现出重要应用潜力。
 
-4. [CMS的BALANCE模型](10.1001/jama.2026.2894 "CMS的BALANCE模型")
+4. [CMS的BALANCE模型](https://doi.org/10.1001/jama.2026.2894 "CMS的BALANCE模型")
 
 ![](https://cdn.jsdelivr.net/gh/Leslie-Lu/images/images/20260501000238.png)
 
