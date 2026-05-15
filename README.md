@@ -60,6 +60,8 @@ $ grep -nri SAS issues | cat --number
 
 ### 五月
 
+- 第 33 期：[高校教授：学生写周记“很痛苦”，我为什么还执意要求？](issues/issue-33.md)
+
 - 第 32 期：[导师如何在博士生涯中发挥重要作用](issues/issue-32.md)
 
 - 第 31 期：[UK Biobank史上最大数据安全事件](issues/issue-31.md)
