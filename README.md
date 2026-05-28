@@ -60,6 +60,8 @@ $ grep -nri SAS issues | cat --number
 
 ### 五月
 
+- 第 35 期：[高校集体号召过紧日子](issues/issue-35.md)
+
 - 第 34 期：[什么是科研直觉](issues/issue-34.md)
 
 - 第 33 期：[高校教授：学生写周记“很痛苦”，我为什么还执意要求？](issues/issue-33.md)
