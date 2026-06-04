@@ -58,6 +58,10 @@ $ grep -nri SAS issues | cat --number
 
 ## 2026
 
+### 六月
+
+- 第 36 期：[Nature是如何成长为“顶级”期刊的？](issues/issue-36.md)
+
 ### 五月
 
 - 第 35 期：[高校集体号召过紧日子](issues/issue-35.md)
