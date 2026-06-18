@@ -60,6 +60,8 @@ $ grep -nri SAS issues | cat --number
 
 ### 六月
 
+- 第 38 期：[医疗数字孪生的六重误判与真相](issues/issue-38.md)
+
 - 第 37 期：[当 AI Agent 成为新的软件范式](issues/issue-37.md)
 
 - 第 36 期：[Nature是如何成长为“顶级”期刊的？](issues/issue-36.md)
