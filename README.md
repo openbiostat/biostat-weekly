@@ -58,6 +58,10 @@ $ grep -nri SAS issues | cat --number
 
 ## 2026
 
+### 七月
+
+- 第 40 期：[中美押注人形机器人：它们真能干啥活？](issues/issue-40.md)
+
 ### 六月
 
 - 第 39 期：[普通人用AI来看病真的更可靠吗？](issues/issue-39.md)
