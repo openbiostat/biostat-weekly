@@ -60,6 +60,8 @@ $ grep -nri SAS issues | cat --number
 
 ### 七月
 
+- 第 41 期：[AI时代，你和导师的知识差距消失了！真的吗？然后呢？](issues/issue-41.md)
+
 - 第 40 期：[中美押注人形机器人：它们真能干啥活？](issues/issue-40.md)
 
 ### 六月
