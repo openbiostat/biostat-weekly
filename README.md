@@ -13,6 +13,7 @@
 - [`@YihanChen325`](https://github.com/YihanChen325) - 陈奕含
 - [`@kirihsia`](https://github.com/kirihsia) - 夏鑫辛
 - [`@GCRPM`](https://github.com/GCRPM) - 徐林玉
+- [`@Jinyu-Luo`](https://github.com/Jinyu-Luo) - 罗瑾瑜
 
 <a href="https://www.star-history.com/#openbiostat/biostat-weekly&Date">
  <picture>
@@ -129,7 +130,7 @@ $ grep -nri SAS issues | cat --number
 ## 2025
 
 <details>
- 
+
 <summary>目录</summary>
 
 ### 十二月

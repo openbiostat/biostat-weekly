@@ -35,6 +35,7 @@ assignees: Leslie-Lu
 - [`@YihanChen325`]（陈奕含）
 - [`@kirihsia`]（夏鑫辛）
 - [`@GCRPM`]（徐林玉）
+- [`@Jinyu-Luo`]（罗瑾瑜）
 
 ## 订阅
 
