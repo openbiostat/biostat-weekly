@@ -61,6 +61,8 @@ $ grep -nri SAS issues | cat --number
 
 ### 七月
 
+- 第 43 期：[养老科技的最大增量市场不是80+，而是80后？](issues/issue-43.md)
+
 - 第 42 期：[如何应对中国的肥胖问题](issues/issue-42.md)
 
 - 第 41 期：[AI时代，你和导师的知识差距消失了！真的吗？然后呢？](issues/issue-41.md)
