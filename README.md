@@ -15,11 +15,11 @@
 - [`@GCRPM`](https://github.com/GCRPM) - 徐林玉
 - [`@Jinyu-Luo`](https://github.com/Jinyu-Luo) - 罗瑾瑜
 
-<a href="https://www.star-history.com/#openbiostat/biostat-weekly&Date">
+<a href="https://www.star-history.com/?repos=openbiostat%2Fbiostat-weekly&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=openbiostat/biostat-weekly&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=openbiostat/biostat-weekly&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=openbiostat/biostat-weekly&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=openbiostat/biostat-weekly&type=date&theme=dark&legend=top-left&sealed_token=LdmS3TWyGIbrVPo-QCQgWBXf3RX1BVNsEfOLEL2IfwXpWli1kvn2zaBmBM4JOVl5KS0OIUKxw0H0Oh-O64RbmZ6BlSxhD5FlMUrA6hio0iVQhA9pV-Gk6zIO2SG-b9B0m8AkYZMdW4pErTF4TMYyTFQt8nhhpO6xTJcbmCp_XtwvZhYO5kJ0fLzGqkPZ" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=openbiostat/biostat-weekly&type=date&legend=top-left&sealed_token=LdmS3TWyGIbrVPo-QCQgWBXf3RX1BVNsEfOLEL2IfwXpWli1kvn2zaBmBM4JOVl5KS0OIUKxw0H0Oh-O64RbmZ6BlSxhD5FlMUrA6hio0iVQhA9pV-Gk6zIO2SG-b9B0m8AkYZMdW4pErTF4TMYyTFQt8nhhpO6xTJcbmCp_XtwvZhYO5kJ0fLzGqkPZ" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=openbiostat/biostat-weekly&type=date&legend=top-left&sealed_token=LdmS3TWyGIbrVPo-QCQgWBXf3RX1BVNsEfOLEL2IfwXpWli1kvn2zaBmBM4JOVl5KS0OIUKxw0H0Oh-O64RbmZ6BlSxhD5FlMUrA6hio0iVQhA9pV-Gk6zIO2SG-b9B0m8AkYZMdW4pErTF4TMYyTFQt8nhhpO6xTJcbmCp_XtwvZhYO5kJ0fLzGqkPZ" />
  </picture>
 </a>
 
@@ -60,6 +60,8 @@ $ grep -nri SAS issues | cat --number
 ## 2026
 
 ### 七月
+
+- 第 44 期：[AI到底是什么？在临床试验里怎么落地？](issues/issue-44.md)
 
 - 第 43 期：[养老科技的最大增量市场不是80+，而是80后？](issues/issue-43.md)
 
