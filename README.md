@@ -15,11 +15,13 @@
 - [`@GCRPM`](https://github.com/GCRPM) - 徐林玉
 - [`@Jinyu-Luo`](https://github.com/Jinyu-Luo) - 罗瑾瑜
 
+## Star History
+
 <a href="https://www.star-history.com/?repos=openbiostat%2Fbiostat-weekly&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=openbiostat/biostat-weekly&type=date&theme=dark&legend=top-left&sealed_token=LdmS3TWyGIbrVPo-QCQgWBXf3RX1BVNsEfOLEL2IfwXpWli1kvn2zaBmBM4JOVl5KS0OIUKxw0H0Oh-O64RbmZ6BlSxhD5FlMUrA6hio0iVQhA9pV-Gk6zIO2SG-b9B0m8AkYZMdW4pErTF4TMYyTFQt8nhhpO6xTJcbmCp_XtwvZhYO5kJ0fLzGqkPZ" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=openbiostat/biostat-weekly&type=date&legend=top-left&sealed_token=LdmS3TWyGIbrVPo-QCQgWBXf3RX1BVNsEfOLEL2IfwXpWli1kvn2zaBmBM4JOVl5KS0OIUKxw0H0Oh-O64RbmZ6BlSxhD5FlMUrA6hio0iVQhA9pV-Gk6zIO2SG-b9B0m8AkYZMdW4pErTF4TMYyTFQt8nhhpO6xTJcbmCp_XtwvZhYO5kJ0fLzGqkPZ" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=openbiostat/biostat-weekly&type=date&legend=top-left&sealed_token=LdmS3TWyGIbrVPo-QCQgWBXf3RX1BVNsEfOLEL2IfwXpWli1kvn2zaBmBM4JOVl5KS0OIUKxw0H0Oh-O64RbmZ6BlSxhD5FlMUrA6hio0iVQhA9pV-Gk6zIO2SG-b9B0m8AkYZMdW4pErTF4TMYyTFQt8nhhpO6xTJcbmCp_XtwvZhYO5kJ0fLzGqkPZ" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=openbiostat/biostat-weekly&type=date&theme=dark&legend=top-left&sealed_token=EkCZ2204H5hgnc65qEliiLVJ6EMSYW5EG-U5VC2fCEhGd7CJI8bPTMIKHIkWuQp-ZtaAStdcOataUjZ_zHOqN-XDXkEbcU2aLJpCTENbljVL2IU9DY5bkJlw93jBkHsFdA0NtAph1iGdAIyvNDLQIenf08tDkp0Q3zrrECdrDUobZTvNHuIa4bA45Gz_" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=openbiostat/biostat-weekly&type=date&legend=top-left&sealed_token=EkCZ2204H5hgnc65qEliiLVJ6EMSYW5EG-U5VC2fCEhGd7CJI8bPTMIKHIkWuQp-ZtaAStdcOataUjZ_zHOqN-XDXkEbcU2aLJpCTENbljVL2IU9DY5bkJlw93jBkHsFdA0NtAph1iGdAIyvNDLQIenf08tDkp0Q3zrrECdrDUobZTvNHuIa4bA45Gz_" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=openbiostat/biostat-weekly&type=date&legend=top-left&sealed_token=EkCZ2204H5hgnc65qEliiLVJ6EMSYW5EG-U5VC2fCEhGd7CJI8bPTMIKHIkWuQp-ZtaAStdcOataUjZ_zHOqN-XDXkEbcU2aLJpCTENbljVL2IU9DY5bkJlw93jBkHsFdA0NtAph1iGdAIyvNDLQIenf08tDkp0Q3zrrECdrDUobZTvNHuIa4bA45Gz_" />
  </picture>
 </a>
 
