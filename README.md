@@ -15,8 +15,6 @@
 - [`@GCRPM`](https://github.com/GCRPM) - 徐林玉
 - [`@Jinyu-Luo`](https://github.com/Jinyu-Luo) - 罗瑾瑜
 
-## Star History
-
 <a href="https://www.star-history.com/?repos=openbiostat%2Fbiostat-weekly&type=date&legend=top-left">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=openbiostat/biostat-weekly&type=date&theme=dark&legend=top-left&sealed_token=EkCZ2204H5hgnc65qEliiLVJ6EMSYW5EG-U5VC2fCEhGd7CJI8bPTMIKHIkWuQp-ZtaAStdcOataUjZ_zHOqN-XDXkEbcU2aLJpCTENbljVL2IU9DY5bkJlw93jBkHsFdA0NtAph1iGdAIyvNDLQIenf08tDkp0Q3zrrECdrDUobZTvNHuIa4bA45Gz_" />
@@ -60,6 +58,10 @@ $ grep -nri SAS issues | cat --number
 --------------
 
 ## 2026
+
+### 八月
+
+- 第 45 期：[6岁女童夭折背后，一场失败的“全球首例”脑部基因编辑试验](issues/issue-45.md)
 
 ### 七月
 
