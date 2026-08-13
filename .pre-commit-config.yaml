@@ -1,0 +1,9 @@
+repos:
+  - repo: local
+    hooks:
+      - id: panache-format-issues
+        name: panache format issues/
+        entry: panache format issues/
+        language: system
+        pass_filenames: false
+        files: ^issues/.*\.(qmd|md)$

@@ -2,7 +2,9 @@
 
 这里记录每周值得分享的生统相关内容，周五发布。
 
-本杂志开源（GitHub: [openbiostat/biostat-weekly](https://github.com/openbiostat/biostat-weekly "openbiostat/biostat-weekly")），欢迎提交 issue 投稿或推荐生统相关内容。
+本杂志开源（GitHub:
+[openbiostat/biostat-weekly](https://github.com/openbiostat/biostat-weekly "openbiostat/biostat-weekly")），欢迎提交
+issue 投稿或推荐生统相关内容。
 
 [「生统爱好者周刊讨论区」](https://github.com/openbiostat/biostat-weekly/discussions "生统爱好者周刊讨论区")
 
@@ -20,7 +22,8 @@
 
 ## 生统研究
 
-1. [Lancet | 突破后循环溶栓壁垒，将时间窗拓展至24小时](https://mp.weixin.qq.com/s/mvcKN85jxllBkQzNNiTXoQ)
+1. [Lancet \|
+   突破后循环溶栓壁垒，将时间窗拓展至24小时](https://mp.weixin.qq.com/s/mvcKN85jxllBkQzNNiTXoQ)
 
 ![](https://cdn.jsdelivr.net/gh/Leslie-Lu/images/images/20260521235421.png)
 
@@ -34,7 +37,8 @@ TRACE-5研究基于既往TRACE-3研究结果开展。TRACE-3研究已成功将�
 
 ![](https://cdn.jsdelivr.net/gh/Leslie-Lu/images/images/20260521235558.png)
 
-过去十年间，GLP-1受体激动剂彻底改变了肥胖管理方式。《柳叶刀》（The Lancet）社论指出，由于成本、生产能力以及供应链的限制，GLP-1受体激动剂的全球可及性持续存在不公平现象。可负担的生物仿制药可能带来颠覆性变革。不过仅靠药物无法解决肥胖问题，但GLP-1受体激动剂可以并且应该成为整合预防、照护和治疗的系统性方案的一部分。
+过去十年间，GLP-1受体激动剂彻底改变了肥胖管理方式。《柳叶刀》（The
+Lancet）社论指出，由于成本、生产能力以及供应链的限制，GLP-1受体激动剂的全球可及性持续存在不公平现象。可负担的生物仿制药可能带来颠覆性变革。不过仅靠药物无法解决肥胖问题，但GLP-1受体激动剂可以并且应该成为整合预防、照护和治疗的系统性方案的一部分。
 
 ## 博文资讯
 
@@ -48,7 +52,9 @@ TRACE-5研究基于既往TRACE-3研究结果开展。TRACE-3研究已成功将�
 
 ![](https://cdn.jsdelivr.net/gh/Leslie-Lu/images/images/20260522000003.png)
 
-在2024年美国FDA批准的53个新药中，有17个将真实世界证据（RWE）作为关键支持材料，这一数字较五年前增长了近4倍。当随机对照试验（RCT）的"金标准"遭遇外部效度困境，当精准医疗呼唤更广阔的患者画像，真实世界研究（Real-World Study, RWS）正从辅助角色跃升为医药研发的"必选项"。这场静默的证据革命，正在改写药物从实验室到病床的每一步规则。
+在2024年美国FDA批准的53个新药中，有17个将真实世界证据（RWE）作为关键支持材料，这一数字较五年前增长了近4倍。当随机对照试验（RCT）的"金标准"遭遇外部效度困境，当精准医疗呼唤更广阔的患者画像，真实世界研究（Real-World
+Study,
+RWS）正从辅助角色跃升为医药研发的"必选项"。这场静默的证据革命，正在改写药物从实验室到病床的每一步规则。
 
 ## 工具
 
@@ -56,13 +62,17 @@ TRACE-5研究基于既往TRACE-3研究结果开展。TRACE-3研究已成功将�
 
 ![](https://cdn.jsdelivr.net/gh/Leslie-Lu/images/images/20260522000131.png)
 
-ggpie 是一个基于 ggplot2 语法体系的 R 包，主要用于绘制饼图和环形图。该包在保持 ggplot2 分层语法与美学映射一致性的基础上，简化了饼图绘制流程，支持对分类变量比例的直观可视化，并可灵活调整标签位置、颜色和主题样式。ggpie 常用于描述性统计分析中，对分类数据构成和比例分布进行展示，适合用于基线特征、构成比或亚组分布的可视化表达。
+ggpie 是一个基于 ggplot2 语法体系的 R 包，主要用于绘制饼图和环形图。该包在保持
+ggplot2
+分层语法与美学映射一致性的基础上，简化了饼图绘制流程，支持对分类变量比例的直观可视化，并可灵活调整标签位置、颜色和主题样式。ggpie
+常用于描述性统计分析中，对分类数据构成和比例分布进行展示，适合用于基线特征、构成比或亚组分布的可视化表达。
 
 6. [huggingface库基础知识：datasets](https://mp.weixin.qq.com/s/FjB1Mqq_3J2Hzz-Uha01Mw)
 
 ![](https://cdn.jsdelivr.net/gh/Leslie-Lu/images/images/20260522000437.png)
 
-在大模型训练中，数据处理的复杂程度往往不亚于模型本身。HuggingFace datasets 库提供了一个强大、灵活且高效的数据处理工具链，使得我们能够轻松加载、切分、过滤、预处理并保存各种数据集。
+在大模型训练中，数据处理的复杂程度往往不亚于模型本身。HuggingFace datasets
+库提供了一个强大、灵活且高效的数据处理工具链，使得我们能够轻松加载、切分、过滤、预处理并保存各种数据集。
 
 ## 资源
 
@@ -70,13 +80,16 @@ ggpie 是一个基于 ggplot2 语法体系的 R 包，主要用于绘制饼图�
 
 ![](https://cdn.jsdelivr.net/gh/Leslie-Lu/images/images/20260522000545.png)
 
-本文目标是把社区里优秀分享、官方博客、论文、开源项目和真实工程经验，整理成一份可以照着执行的 AI Agent 学习 todo list。
+本文目标是把社区里优秀分享、官方博客、论文、开源项目和真实工程经验，整理成一份可以照着执行的
+AI Agent 学习 todo list。
 
-8. [Claude Code + Opus 4.7最佳实践](https://mp.weixin.qq.com/s/nyVW0haNIc2d6iKm_rg4cw)
+8. [Claude Code + Opus
+   4.7最佳实践](https://mp.weixin.qq.com/s/nyVW0haNIc2d6iKm_rg4cw)
 
 ![](https://cdn.jsdelivr.net/gh/Leslie-Lu/images/images/20260522000646.png)
 
-这篇blog信息量不小，整理一下Claude Code + Opus 4.7最佳实践，给同样在用Claude Code的朋友参考。
+这篇blog信息量不小，整理一下Claude Code + Opus 4.7最佳实践，给同样在用Claude
+Code的朋友参考。
 
 ## 贡献者（GitHub ID）
 
@@ -93,6 +106,8 @@ ggpie 是一个基于 ggplot2 语法体系的 R 包，主要用于绘制饼图�
 
 ![](https://cdn.jsdelivr.net/gh/Leslie-Lu/images/images/20251113212819.png)
 
-同时，本周刊同步支持 [RSS 订阅](https://leslie-lu.github.io/biostat_weekly_rss.xml "生统爱好者周刊 RSS 订阅")；本周刊同名中文播客现已正式在[苹果播客（Apple Podcasts）](https://podcasts.apple.com/cn/podcast/%E7%94%9F%E7%BB%9F%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A/id1868591486?l=en-GB "Apple Podcasts 订阅")和[小宇宙](https://www.xiaoyuzhoufm.com/podcast/69650caa93e769238063a05e "小宇宙订阅")平台上线，搜索`生统爱好者周刊`即可订阅收听。该播客内容基于本周刊公开内容制作，相关学术论文链接及原始资讯请查阅本周刊文字版。
+同时，本周刊同步支持 [RSS
+订阅](https://leslie-lu.github.io/biostat_weekly_rss.xml "生统爱好者周刊 RSS 订阅")；本周刊同名中文播客现已正式在[苹果播客（Apple
+Podcasts）](https://podcasts.apple.com/cn/podcast/%E7%94%9F%E7%BB%9F%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A/id1868591486?l=en-GB "Apple Podcasts 订阅")和[小宇宙](https://www.xiaoyuzhoufm.com/podcast/69650caa93e769238063a05e "小宇宙订阅")平台上线，搜索`生统爱好者周刊`即可订阅收听。该播客内容基于本周刊公开内容制作，相关学术论文链接及原始资讯请查阅本周刊文字版。
 
 （完）
