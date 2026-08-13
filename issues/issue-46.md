@@ -42,7 +42,7 @@ Protocols发表了医学大语言模型应用教程，为医学研究者构建�
 
 ![](https://cdn.jsdelivr.net/gh/Leslie-Lu/images/images/20260814000533.png)
 
-ulkarni 等在2026年提出了计算可供性地图（computational affordance
+Kulkarni 等在2026年提出了计算可供性地图（computational affordance
 landscape）框架。研究借助网络控制理论，将脑网络完成不同活动状态转换所需的最小输入成本进行量化，从而解释网络结构如何塑造其"更容易完成哪些计算"。作者在果蝇神经环路、人类结构连接组和人工
 RNN
 中进行验证，发现连接结构、输入位置及目标状态共同决定计算成本，并提示学习可能进一步重塑网络的低成本活动方向。
