@@ -1,8 +1,10 @@
-# 生统爱好者周刊（第 8 期）：刷多了社交媒体，AI 也会“脑腐”
+# 生统爱好者周刊（第 8 期）：刷多了社交媒体，AI 也会"脑腐"
 
 这里记录每周值得分享的生统相关内容，周五发布。
 
-本杂志开源（GitHub: [openbiostat/biostat-weekly](https://github.com/openbiostat/biostat-weekly "openbiostat/biostat-weekly")），欢迎提交 issue 投稿或推荐生统相关内容。
+本杂志开源（GitHub:
+[openbiostat/biostat-weekly](https://github.com/openbiostat/biostat-weekly "openbiostat/biostat-weekly")），欢迎提交
+issue 投稿或推荐生统相关内容。
 
 [「生统爱好者周刊讨论区」](https://github.com/openbiostat/biostat-weekly/discussions "生统爱好者周刊讨论区")
 
@@ -12,13 +14,14 @@
 
 ## 本周话题：[刷多了社交媒体，AI 也会“脑腐”](https://www.nature.com/articles/d41586-025-03542-2?utm_medium=organic_social&utm_source=wechat&utm_campaign=CONR_NAJRN_ATT1_AP_CNCM_002EB_weeklybrf "Nature news | 刷多了社交媒体，AI 也会“脑腐”")
 
-> 用“脑腐”内容（空洞的、如同精神垃圾食品的社交媒体帖子）训练的人工智能（AI）聊天机器人，在生成准确信息方面表现更差。研究人员发现，如果聊天机器人摄入大量热门且耸人听闻的帖子，它们在推理过程中会跳过一些步骤（甚至完全不进行推理），给出错误的答案，并表现出一些“阴暗特征”，例如精神病态和自恋程度增加。
+> 用"脑腐"内容（空洞的、如同精神垃圾食品的社交媒体帖子）训练的人工智能（AI）聊天机器人，在生成准确信息方面表现更差。研究人员发现，如果聊天机器人摄入大量热门且耸人听闻的帖子，它们在推理过程中会跳过一些步骤（甚至完全不进行推理），给出错误的答案，并表现出一些"阴暗特征"，例如精神病态和自恋程度增加。
 
 `@Leslie-Lu` 高质量数据对于更进一步提升 AI 模型性能正在变得越来越重要。
 
 ## 生统研究
 
-1. [Nature Medicine：蛋白标志物“发现-验证-机制”的模板-胰腺导管腺癌反应的生物标志物的前瞻性观察研究](https://mp.weixin.qq.com/s/v16YH4QUWF9qKwQB-bKz_A)
+1. [Nature
+   Medicine：蛋白标志物"发现-验证-机制"的模板-胰腺导管腺癌反应的生物标志物的前瞻性观察研究](https://mp.weixin.qq.com/s/v16YH4QUWF9qKwQB-bKz_A)
 
 ![](https://cdn.jsdelivr.net/gh/Leslie-Lu/images/images/20251113204258.png)
 
@@ -26,11 +29,13 @@
 
 - 论文 DOI：10.1038/s41591-023-02790-x
 
-2. [Lancet | 2010~2023年，焦虑障碍、抑郁障碍和糖尿病的负担明显增加](https://mp.weixin.qq.com/s/62B-ta8e0ssFnaDsDL3fiA)
+2. [Lancet \|
+   2010\~2023年，焦虑障碍、抑郁障碍和糖尿病的负担明显增加](https://mp.weixin.qq.com/s/62B-ta8e0ssFnaDsDL3fiA)
 
 ![](https://cdn.jsdelivr.net/gh/Leslie-Lu/images/images/20251113204838.png)
 
-《柳叶刀》（The Lancet）发表了GBD 2023关于疾病和伤害负担以及风险归因所致健康损失的研究结果。2010年到2023年，全球伤残调整寿命年总量增加，但按年龄标准化后呈显著下降，表明长期健康状况有所改善。非传染性疾病的总体负担增加，但焦虑障碍、抑郁障碍和糖尿病在年龄标准化负担上的增幅尤为显著。核心风险因素仍包括高收缩压、细颗粒物污染、高空腹血糖、吸烟和低出生体重及早产。
+《柳叶刀》（The Lancet）发表了GBD
+2023关于疾病和伤害负担以及风险归因所致健康损失的研究结果。2010年到2023年，全球伤残调整寿命年总量增加，但按年龄标准化后呈显著下降，表明长期健康状况有所改善。非传染性疾病的总体负担增加，但焦虑障碍、抑郁障碍和糖尿病在年龄标准化负担上的增幅尤为显著。核心风险因素仍包括高收缩压、细颗粒物污染、高空腹血糖、吸烟和低出生体重及早产。
 
 - 论文 DOI：10.1016/S0140-6736(25)01637-X
 
@@ -48,39 +53,50 @@
 
 地中海饮食与江南饮食以植物性为主、油脂讲究，皆强调清淡、自然与适度。橄榄油、菜籽油与芝麻油在血脂与心血管健康中发挥关键作用，两地均通过多样食材与精细烹调实现营养均衡。研究显示两者有助控重、降血压、改善代谢，并体现出文化与生活美学的健康理念。无论选择哪种模式，关键在于可持续与个体化的健康生活方式。
 
-5. [共情驱动的人—人工智能（AI）交互理论构想](https://mp.weixin.qq.com/s/5PWgZRNXlBMb2uIa66M5rw)
+5. [共情驱动的人---人工智能（AI）交互理论构想](https://mp.weixin.qq.com/s/5PWgZRNXlBMb2uIa66M5rw)
 
 ![](https://cdn.jsdelivr.net/gh/Leslie-Lu/images/images/20251113210156.png)
 
-社会心理学经典研究表明，人类在进化过程中形成了对“非我族类”的戒备心态。在人机互动中，高度拟人化的AI可能激发这种心理反应，引发排斥甚至敌意，不利于技术的社会接纳。为应对这一挑战，中国科学院心理研究所联合多家科研机构发表观点论文，提出“人—AI共情环路”这一新概念，认为其在人类与AI未来的深度融合中将发挥关键作用。
+社会心理学经典研究表明，人类在进化过程中形成了对"非我族类"的戒备心态。在人机互动中，高度拟人化的AI可能激发这种心理反应，引发排斥甚至敌意，不利于技术的社会接纳。为应对这一挑战，中国科学院心理研究所联合多家科研机构发表观点论文，提出"人---AI共情环路"这一新概念，认为其在人类与AI未来的深度融合中将发挥关键作用。
 
 ## 工具
 
-6. [谷歌 9 款集成式 AI 学习工具：大模型 + 搜索重构学习体验](https://mp.weixin.qq.com/s/hcYDnjo-J5JXDV10g0Oqsw)
+6. [谷歌 9 款集成式 AI 学习工具：大模型 +
+   搜索重构学习体验](https://mp.weixin.qq.com/s/hcYDnjo-J5JXDV10g0Oqsw)
 
 ![](https://cdn.jsdelivr.net/gh/Leslie-Lu/images/images/20251113210527.png)
 
-11 月 10 日，谷歌正式展示 9 款集成式人工智能学习工具，通过融合 Gemini 大模型的推理能力、Notebook LM 的知识库管理功能与搜索引擎的信息延展特性，为全球学生打造 “AI 驱动型学习生态”，标志着教育场景的智能化升级进入新阶段。
+11 月 10 日，谷歌正式展示 9 款集成式人工智能学习工具，通过融合 Gemini
+大模型的推理能力、Notebook LM
+的知识库管理功能与搜索引擎的信息延展特性，为全球学生打造 "AI
+驱动型学习生态"，标志着教育场景的智能化升级进入新阶段。
 
 7. [TortoiseGit](https://tortoisegit.org/about/ "TortoiseGit")
 
 ![](https://cdn.jsdelivr.net/gh/Leslie-Lu/images/images/20251113210826.png)
 
-TortoiseGit 是一个免费的、开源的 Git 版本控制客户端，它以 Windows Shell 扩展的形式集成在系统中，是在你的 Windows 资源管理器（即文件夹窗口）中直接提供 Git 功能的工具。你可以在任何文件夹内，通过右键点击鼠标来使用绝大部分 Git 命令，这使得版本控制操作变得非常直观和便捷。
+TortoiseGit 是一个免费的、开源的 Git 版本控制客户端，它以 Windows Shell
+扩展的形式集成在系统中，是在你的 Windows 资源管理器（即文件夹窗口）中直接提供
+Git 功能的工具。你可以在任何文件夹内，通过右键点击鼠标来使用绝大部分 Git
+命令，这使得版本控制操作变得非常直观和便捷。
 
 8. [绘制全国物种分布热力图](https://mp.weixin.qq.com/s/Y7P762Yzz1d5bpYi-QVWOw)
 
 ![](https://cdn.jsdelivr.net/gh/Leslie-Lu/images/images/20251113210947.png)
 
-推文以“银杏”为例，演示用 R 快速绘制物种分布热力图，从数据准备到可视化一步到位。
+推文以"银杏"为例，演示用 R 快速绘制物种分布热力图，从数据准备到可视化一步到位。
 
 ## 资源
 
-9. [EMBO Press中国学者精彩文章分享](https://mp.weixin.qq.com/s/5_Lg2_En-74cRhDNNPb6Ow)
+9. [EMBO
+   Press中国学者精彩文章分享](https://mp.weixin.qq.com/s/5_Lg2_En-74cRhDNNPb6Ow)
 
 ![](https://cdn.jsdelivr.net/gh/Leslie-Lu/images/images/20251113211156.png)
 
-EMBO Press (欧洲分子生物学组织出版社) 包括 The EMBO Journal, EMBO Reports, Molecular Systems Biology 和 EMBO Molecular Medicine，在生物学和生物医学领域出版取得重要进展的高价值文章。推文整理了EMBO Press 编辑精选的2025年中国学者发表文章。
+EMBO Press (欧洲分子生物学组织出版社) 包括 The EMBO Journal, EMBO Reports,
+Molecular Systems Biology 和 EMBO Molecular
+Medicine，在生物学和生物医学领域出版取得重要进展的高价值文章。推文整理了EMBO
+Press 编辑精选的2025年中国学者发表文章。
 
 10. [中山大学镜像站](https://mp.weixin.qq.com/s/oqvZaF5_MKgQ8eunRnbTHQ)
 
@@ -92,7 +108,7 @@ EMBO Press (欧洲分子生物学组织出版社) 包括 The EMBO Journal, EMBO 
 
 ![](https://cdn.jsdelivr.net/gh/Leslie-Lu/images/images/20251113211315.png)
 
-施普林格·自然的Synthesis技术前沿报告合集涵盖了工程学和计算机科学领域的前沿研究主题。这套图书合集中的书籍以技术/方法、综述和课程笔记为基础，形成一份份独立的“报告”（lectures），聚焦快速发展研究领域的创新成果，内容实用且易于理解。
+施普林格·自然的Synthesis技术前沿报告合集涵盖了工程学和计算机科学领域的前沿研究主题。这套图书合集中的书籍以技术/方法、综述和课程笔记为基础，形成一份份独立的"报告"（lectures），聚焦快速发展研究领域的创新成果，内容实用且易于理解。
 
 ## 贡献者（GitHub ID）
 
@@ -105,9 +121,10 @@ EMBO Press (欧洲分子生物学组织出版社) 包括 The EMBO Journal, EMBO 
 
 ## 订阅
 
-本周刊每周五发布，支持 [RSS 订阅](https://leslie-lu.github.io/biostat_weekly_rss.xml "生统爱好者周刊 RSS 订阅")，同步更新在微信公众号「陆震生物统计」（luzhen-biostat）上。
+本周刊每周五发布，支持 [RSS
+订阅](https://leslie-lu.github.io/biostat_weekly_rss.xml "生统爱好者周刊 RSS 订阅")，同步更新在微信公众号「陆震生物统计」（luzhen-biostat）上。
 
-微信搜索“陆震生物统计”或者扫描二维码，即可订阅。
+微信搜索"陆震生物统计"或者扫描二维码，即可订阅。
 
 ![](https://cdn.jsdelivr.net/gh/Leslie-Lu/images/images/20251113212819.png)
 
