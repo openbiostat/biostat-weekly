@@ -61,6 +61,8 @@ $ grep -nri SAS issues | cat --number
 
 ### 八月
 
+- 第 47 期：[mRNA个性化癌症疫苗的突破意味着什么？](issues/issue-47.md)
+
 - 第 46 期：[同济大学取消“长聘制”：激发活力还是制造焦虑？](issues/issue-46.md)
 
 - 第 45 期：[6岁女童夭折背后，一场失败的“全球首例”脑部基因编辑试验](issues/issue-45.md)
