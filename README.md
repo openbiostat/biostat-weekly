@@ -61,6 +61,8 @@ $ grep -nri SAS issues | cat --number
 
 ### 八月
 
+- 第 48 期：[2026年国家自然科学基金评审结果公布](issues/issue-48.md)
+
 - 第 47 期：[mRNA个性化癌症疫苗的突破意味着什么？](issues/issue-47.md)
 
 - 第 46 期：[同济大学取消“长聘制”：激发活力还是制造焦虑？](issues/issue-46.md)
