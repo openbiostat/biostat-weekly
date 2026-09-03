@@ -59,6 +59,10 @@ $ grep -nri SAS issues | cat --number
 
 ## 2026
 
+### 九月
+
+- 第 49 期：[AI 从解谜到创造](issues/issue-49.md)
+
 ### 八月
 
 - 第 48 期：[2026年国家自然科学基金评审结果公布](issues/issue-48.md)
