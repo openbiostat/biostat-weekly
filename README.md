@@ -61,6 +61,8 @@ $ grep -nri SAS issues | cat --number
 
 ### 九月
 
+- 第 51 期：[今天你也Burnout了吗？](issues/issue-51.md)
+
 - 第 50 期：[从一根筋到多面手，我们的科研评价体系为何如此分裂？](issues/issue-50.md)
 
 - 第 49 期：[AI 从解谜到创造](issues/issue-49.md)
