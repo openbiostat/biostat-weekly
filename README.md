@@ -59,6 +59,10 @@ $ grep -nri SAS issues | cat --number
 
 ## 2026
 
+### 十月
+
+- 第 52 期：[复杂世界里的不平等与公平](issues/issue-52.md)
+
 ### 九月
 
 - 第 51 期：[今天你也Burnout了吗？](issues/issue-51.md)
