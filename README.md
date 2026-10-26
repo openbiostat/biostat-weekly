@@ -61,6 +61,8 @@ $ grep -nri SAS issues | cat --number
 
 ### 十月
 
+- 第 53 期：[美国科研经费动态](issues/issue-53.md)
+
 - 第 52 期：[复杂世界里的不平等与公平](issues/issue-52.md)
 
 ### 九月
