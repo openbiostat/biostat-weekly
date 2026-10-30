@@ -61,6 +61,8 @@ $ grep -nri SAS issues | cat --number
 
 ### 十月
 
+- 第 55 期：[Claude内部找到171个情绪概念，我们该为人工痛苦辩护吗？](issues/issue-55.md)
+
 - 第 54 期：[精准肿瘤学时代的抗癌药价难题](issues/issue-54.md)
 
 - 第 53 期：[美国科研经费动态](issues/issue-53.md)
