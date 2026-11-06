@@ -59,6 +59,10 @@ $ grep -nri SAS issues | cat --number
 
 ## 2026
 
+### 十一月
+
+- 第 56 期：[医学危机还是反医学危机？](issues/issue-56.md)
+
 ### 十月
 
 - 第 55 期：[Claude内部找到171个情绪概念，我们该为人工痛苦辩护吗？](issues/issue-55.md)
