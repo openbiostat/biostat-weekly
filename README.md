@@ -61,6 +61,8 @@ $ grep -nri SAS issues | cat --number
 
 ### 十一月
 
+- 第 57 期：[科研越来越像一门生意：科研人员拼命做实验，有人却靠卖科研焦虑发财](issues/issue-57.md)
+
 - 第 56 期：[医学危机还是反医学危机？](issues/issue-56.md)
 
 ### 十月
